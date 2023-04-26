@@ -11,6 +11,11 @@ Brain MRI segmentation: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segm
 
 ### Requirements:
 To get started with the project make sure you have python installed.
+Install your dependencies: <br>
+```pip install -r requirements.txt``` <br>
+Now you get the full list of your dependencies with <br>
+ ```pip freeze -r requirements.txt``` or
+ ```pip freeze > requirements.txt```
 
 ### Folder Setup:
 Here is a detailed folder setup to help you get started
